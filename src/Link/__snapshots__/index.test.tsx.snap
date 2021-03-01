@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`a link is rendered with target=_blank and noreferrer noopener: 
+    <a href="https://bbc.co.uk" target="_blank" rel="noreferrer noopener">NEWS</a> 1`] = `
+<a
+  href="https://bbc.co.uk"
+  rel="noreferrer noopener"
+  target="_blank"
+>
+  NEWS
+</a>
+`;
+
+exports[`a link is rendered: 
+    <a href="https://bbc.co.uk">NEWS</a> 1`] = `
+<a
+  href="https://bbc.co.uk"
+>
+  NEWS
+</a>
+`;
